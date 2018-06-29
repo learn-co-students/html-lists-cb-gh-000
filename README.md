@@ -28,11 +28,6 @@ them, we'll add `<li>` tags, each listing a single month:
 </ul>
 ```
 
-Lists are very flexible and we can even nest lists inside of lists. If we
-wanted to add specific dates to a month, we could put a list inside of our
-`Oct` list item:
-
-```HTML
 <ul>
   <li>Dec</li>
   <li>Nov</li>
