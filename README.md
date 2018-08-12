@@ -60,7 +60,7 @@ will display a numbered list instead of bullets:
 ```HTML
 <h3>Popular Listings</h3>
 <ol>
-  <li>348 Stockton St.</li>
+  <li>3418 Stockton St.</li>
   <li>3742 Belevadere Rd.</li>
   <li>41 Cleaton Ave.</li>
 </ol>
