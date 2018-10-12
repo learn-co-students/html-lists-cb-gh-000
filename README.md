@@ -59,11 +59,11 @@ will display a numbered list instead of bullets:
 
 ```HTML
 <h3>Popular Listings</h3>
-<ol>
+<ul>
   <li>348 Stockton St.</li>
   <li>3742 Belevadere Rd.</li>
   <li>41 Cleaton Ave.</li>
-</ol>
+</ul>
 ```
 
 Add the above to your Listings page, save and check out your live page to see
