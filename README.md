@@ -25,6 +25,7 @@ them, we'll add `<li>` tags, each listing a single month:
   <li>Dec</li>
   <li>Nov</li>
   <li>Oct</li>
+  <li>Sep</li>
 </ul>
 ```
 
